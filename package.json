@@ -1,0 +1,34 @@
+{
+  "name": "github-repository-stats",
+  "version": "0.0.1",
+  "description": "Uses GitHub's GraphQL API to collect statistics of the given repositories.",
+  "main": "source/main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "./source/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anadian/github-repository-stats.git"
+  },
+  "keywords": [
+    "github",
+    "repo",
+    "stats",
+    "repository",
+    "graphql",
+    "request",
+    "json",
+    "libre",
+    "open",
+    "free",
+    "mit"
+  ],
+  "author": "Anadian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anadian/github-repository-stats/issues"
+  },
+  "homepage": "https://github.com/Anadian/github-repository-stats#readme"
+}
